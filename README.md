@@ -1,7 +1,6 @@
 # DevOps Hands On
-Projeto da disciplina de DEVOPS da FIAP
 
-Aplicação Simples em Python/Flask com teste usando Unittest
+Projeto prático da disciplina de DEVOPS da FIAP que visa mostrar todo o fluxo de uma esteira de CI/CD 
 
 ### Itens do projeto:
 
@@ -10,7 +9,6 @@ Aplicação Simples em Python/Flask com teste usando Unittest
 - Deploy em uma cloud provider
 
 
-### LInks Uteis:
-URL do Repo: https://github.com/raphaelInacio/devopslab
-Board do trello: https://trello.com/invite/b/SBZNn60U/1ad0311c2d406b8a5b58605360c05b73/9aso-turma
-URL Heroko: https://dashboard.heroku.com/apps/devopslab-rapha
+### Links Uteis:
+- Board do trello: https://trello.com/invite/b/SBZNn60U/1ad0311c2d406b8a5b58605360c05b73/9aso-turma
+- URL da aplicação: https://devopslab-rapha.herokuapp.com/
