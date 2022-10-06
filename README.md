@@ -1,5 +1,6 @@
 
 # DevOps Hands On [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=raphaelInacio_devopslab&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=raphaelInacio_devopslab)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=raphaelInacio_devopslab&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=raphaelInacio_devopslab)
 
 Projeto prático da disciplina de DEVOPS da FIAP que visa mostrar todo o fluxo de uma esteira de CI/CD 
 
