@@ -1,4 +1,5 @@
-# DevOps Hands On
+
+# DevOps Hands On [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=raphaelInacio_devopslab&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=raphaelInacio_devopslab)
 
 Projeto prático da disciplina de DEVOPS da FIAP que visa mostrar todo o fluxo de uma esteira de CI/CD 
 
@@ -12,3 +13,4 @@ Projeto prático da disciplina de DEVOPS da FIAP que visa mostrar todo o fluxo d
 ### Links Uteis:
 - Board do trello: https://trello.com/invite/b/SBZNn60U/1ad0311c2d406b8a5b58605360c05b73/9aso-turma
 - URL da aplicação: https://devopslab-rapha.herokuapp.com/
+- Sonar Cloud: https://sonarcloud.io/project/configuration?id=raphaelInacio_devopslab
