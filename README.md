@@ -14,3 +14,4 @@ Projeto prático da disciplina de DEVOPS da FIAP que visa mostrar todo o fluxo d
 - Board do trello: https://trello.com/invite/b/SBZNn60U/1ad0311c2d406b8a5b58605360c05b73/9aso-turma
 - URL da aplicação: https://devopslab-rapha.herokuapp.com/
 - Sonar Cloud: https://sonarcloud.io/project/overview?id=raphaelInacio_devopslab
+- Conta criada no GCP: labfiap.raphaelinacio@gmail.com
