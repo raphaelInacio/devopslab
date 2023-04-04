@@ -22,13 +22,16 @@ jobs:
           python-version: '3.10'
 
       - name: Install Requirements
-        run:  pip install flask pytest pytest-cov flask-wtf
+        run:  pip install flask pytest pytest-cov flask-wtf tox
 
-      - name: Unit Test
-        run: |
-          coverage run --source=app -m pytest test.py
-          coverage report -m
-          coverage xml -i
+      - name: Run tox
+        run: tox -e py
+
+      # - name: Unit Test
+      #   run: |
+      #     coverage run --source=app -m pytest test.py
+      #     coverage report -m
+      #     coverage xml -i
 
       - name: SonarCloud Scan
         uses: sonarsource/sonarcloud-github-action@master  #https://github.com/marketplace/actions/sonarcloud-scan
